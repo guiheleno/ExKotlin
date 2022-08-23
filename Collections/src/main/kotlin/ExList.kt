@@ -20,6 +20,7 @@ fun main () {
         println("5 - Sair")
         println()
         println("Opção: ")
+
         when (readln().toInt()) {
             1 -> {
                 println("Digite um produto: ")

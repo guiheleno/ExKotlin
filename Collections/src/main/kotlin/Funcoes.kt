@@ -32,11 +32,14 @@ fun updateProduto() {
     val produto = readln()
 
     if (estoque.contains(produto)) {
+
         val posicao = estoque.indexOf(produto)
         println("Digite o novo nome do produto: ")
         estoque[posicao] = readln()
         println("Produto atualizado no estoque!")
+
     } else {
+
         println("O $produto não existe no estoque")
     }
 }
