@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ClienteTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-25T23:00:01" hostname="DESKTOP-2N5F780" time="0.027">
+  <properties/>
+  <testcase name="addCompra()" classname="ClienteTest" time="0.027"/>
+  <system-out><![CDATA[Produto adicionado na lista de compras.
+Produto adicionado na lista de compras.
+Produto adicionado na lista de compras.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
